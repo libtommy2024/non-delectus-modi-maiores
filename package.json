@@ -1,6 +1,6 @@
 {
   "name": "@libtommy2024/non-delectus-modi-maiores",
-  "version": "8.40.360",
+  "version": "8.40.361",
   "description": "",
   "main": "index.js",
   "author": "OraliePham",
@@ -592,5 +592,5 @@
   "bugs": {
     "url": "https://github.com/libtommy2024/non-delectus-modi-maiores/issues"
   },
-  "packageManager": "yarn@4.9.1"
+  "packageManager": "yarn@4.9.2"
 }
